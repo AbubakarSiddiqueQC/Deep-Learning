@@ -1,0 +1,10 @@
+CS568 Deep Learning
+Spring 2020
+Instructor: Nazar Khan
+
+Prerequisites
+
+Python
+Basic Calculus (differentiation, chain rule)
+Linear Algebra
+Basic Probability
